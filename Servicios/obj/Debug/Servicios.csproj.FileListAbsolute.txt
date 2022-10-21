@@ -1,0 +1,6 @@
+C:\Users\Camila Valencia\source\repos\ProyectoTDD\Servicios\bin\Debug\Servicios.dll
+C:\Users\Camila Valencia\source\repos\ProyectoTDD\Servicios\bin\Debug\Servicios.pdb
+C:\Users\Camila Valencia\source\repos\ProyectoTDD\Servicios\obj\Debug\Servicios.csproj.AssemblyReference.cache
+C:\Users\Camila Valencia\source\repos\ProyectoTDD\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Camila Valencia\source\repos\ProyectoTDD\Servicios\obj\Debug\Servicios.dll
+C:\Users\Camila Valencia\source\repos\ProyectoTDD\Servicios\obj\Debug\Servicios.pdb
